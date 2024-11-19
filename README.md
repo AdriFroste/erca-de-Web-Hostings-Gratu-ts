@@ -39,4 +39,5 @@
     Certificat SSL: Sí
     Publicitat: Sí
     Altres Característiques: Suport per a PHP, MySQL, cPanel, FTP
-    taula.md
+
+    https://github.com/AdriFroste/erca-de-Web-Hostings-Gratu-ts/blob/main/taula.md
