@@ -39,3 +39,4 @@
     Certificat SSL: Sí
     Publicitat: Sí
     Altres Característiques: Suport per a PHP, MySQL, cPanel, FTP
+    taula.md
